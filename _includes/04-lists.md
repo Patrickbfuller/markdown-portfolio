@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# New List
+
+- Outside time
+- Dance
+- Learning
